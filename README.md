@@ -4,6 +4,8 @@ This repository contains the code and trained model for an interactive web appli
 
 Users can adjust sliders for various weather conditions and time-of-day features to get a live prediction of a solar power plant's AC power output in kilowatts (kW).
 
+![Screenshot of the Streamlit App](images/Streamlit.png)
+
 ---
 
 ## The Machine Learning Model
