@@ -35,6 +35,15 @@ First, clone this repository to your local machine and navigate into the directo
 git clone [https://github.com/theouterlimitz/Solar_Power_Prediction_App.git](https://github.com/theouterlimitz/Solar_Power_Prediction_App.git)
 cd Solar_Power_Prediction_App
 
+# Create a virtual environment
+python -m venv venv
+
+# Activate the environment
+# On MacOS/Linux:
+source venv/bin/activate
+# On Windows:
+.\venv\Scripts\activate
+
 pip install -r requirements.txt
 
 streamlit run app.py
